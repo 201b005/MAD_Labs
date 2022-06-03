@@ -19,5 +19,6 @@ public class Main
 		m.show();
 		Child ch = new Child();
 		ch.show();
+		//g
 	}
 }
